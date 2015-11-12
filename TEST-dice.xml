@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="3" errors="0" failures="0" time="0.006" timestamp="2015-11-12T10:57:16">
+		<testcase classname="dice" name="Dice#roll should return a number" time="0.002">
+		</testcase>
+		<testcase classname="dice" name="Dice#roll should return a number greater than 0" time="0">
+		</testcase>
+		<testcase classname="dice" name="Dice#roll should return a number less than 7" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
